@@ -1,2 +1,2 @@
 # BuggyCode
-Code for insect electrophysiology and behavioural experiment stimuli and analysis
+Code for insect electrophysiology and behavioural experiment stimuli, analysis and data visualisation
